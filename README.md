@@ -1,7 +1,5 @@
 ### Hi there 👋
-#### dd
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+I am Maya Demurovi from Georgia, an aspiring data analyst with a passion for uncovering insights through data. I am eager to leverage my analytical skills to drive data-driven decision-making and contribute to impactful projects.
 
-- 🔭 I’m currently working on this page. 
+
